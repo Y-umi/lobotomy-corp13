@@ -491,3 +491,13 @@
 /datum/ego_datum/armor/hexnail
 	item_path = /obj/item/clothing/suit/armor/ego_gear/he/hexnail
 	cost = 35
+
+// Sirocco - Desert Wind
+/datum/ego_datum/weapon/desert // rank-bumped
+	item_path = /obj/item/ego_weapon/desert
+	cost = 35
+
+// Der Fluchutze - Fell Bullet
+/datum/ego_datum/armor/fellbullet //the weapons are WAW
+	item_path = /obj/item/clothing/suit/armor/ego_gear/he/fellbullet
+	cost = 35
